@@ -1,0 +1,12 @@
+.nav-items {
+    list-style: none;
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+
+.nav-items li {
+    list-style: none;
+    margin-right: 2em;
+    
+}
